@@ -1,0 +1,31 @@
+       <br>
+ <div class="Tabela"> <table style="width:100%" border="black">
+        <tr>
+          <th> <img src="" style="width: 500px;height: 500px;" align="left"> <!-- Obra  -->
+         <p>      
+            <br>
+            nota:
+         </p> </th> <!-- Texto -->
+        </tr>
+        <tr>
+          <td align="center"> Nome da obra :  </td><!-- nome do quadro  -->
+        </tr>
+        <tr>
+          <td align="center" >Nome do autor: </td> <!-- Nome do autor  -->
+        </tr>
+      </table>
+    </div>
+
+
+
+
+    <p>I will display &#x1F313;</p> <!-- 0.5-->
+1
+    <p>I will display &#x1F315;</p> <!-- 1.0 -->
+&#x1F315; &#x1F315; &#x1F315; &#x1F315; &#x1F315; 5
+&#x1F315; &#x1F315; &#x1F315; &#x1F315; 4
+&#x1F315; &#x1F315; &#x1F315; 3
+&#x1F315; &#x1F315; 2
+&#x1F315; 1
+
+
